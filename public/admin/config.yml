@@ -5,8 +5,8 @@ backend:
 media_folder: "public/uploads"
 public_folder: "/uploads"
 
-site_url: "https://example.com"
-display_url: "https://example.com"
+site_url: "https://curious-chan-kun.netlify.app/"
+display_url: "https://curious-chan-kun.netlify.app/"
 
 collections:
   - name: "blog"
